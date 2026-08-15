@@ -693,7 +693,7 @@ This project helped develop a more systematic debugging approach.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Smart-Anti-Theft-Bicycle-Lock.git
+git clone https://github.com/NavigatorPrime/Smart-Anti-Theft-Bicycle-Lock.git
 ```
 
 Navigate to the project directory:
