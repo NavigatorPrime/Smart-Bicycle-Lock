@@ -1172,7 +1172,7 @@ If you would like to make the project open-source, an appropriate license such a
 
 # 👨‍💻 Author
 
-**Inuka**
+**Inuka Jithmal**
 
 Individual Academic / Hobby Project
 
